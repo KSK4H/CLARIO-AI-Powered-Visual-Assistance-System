@@ -1,0 +1,7 @@
+how to execute CLARIO AI-POWERED-VISUAL-ASSISTANCE-SYSTEM
+  --venv\Scripts\activate-- 
+PS C:\Users\HP\Pictures\major project\WeSee-main> venv\Scripts\activate
+(venv) PS C:\Users\HP\Pictures\major project\WeSee-main> python --version     
+Python 3.8.5
+----RUN----
+  python main.py
